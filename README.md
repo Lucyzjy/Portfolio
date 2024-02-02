@@ -171,3 +171,4 @@ CREATE TABLE IF NOT EXISTS sales(
     rating FLOAT(2, 1)
 );
 ```
+Reference from [Princekrampah](https://github.com/Princekrampah)
